@@ -2,9 +2,13 @@
 layout: default
 ---
 
+### **안녕하세요 저는 이화석입니다.**
+### ****
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+[Link to another page](./another-page2.html).
 
 There should be whitespace between paragraphs.
 
