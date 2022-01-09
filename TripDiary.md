@@ -2,7 +2,6 @@
 layout: default
 ---
 
-## Welcome to TripDiary
 
 # Trip Diary
 
