@@ -29,7 +29,7 @@ Java를 통한 Web 애플리케이션을 주로 만들며 공부하였습니다.
 ### Back-end
 > Java  
 > Javascript  
-> Spring
+> Spring  
 > Oracle  
 > SQL
 
